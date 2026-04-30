@@ -32,7 +32,7 @@ processes that keep portfolios and businesses running consistently.
 
 ## Featured Repository
 
-### 📋 [property-management-sops](https://github.com/viki2k23/property-management-sops)
+### [property-management-sops](https://github.com/viki2k23/property-management-sops)
 
 A growing open library of standard operating procedures, communication
 templates, and operational checklists for U.S. residential property
@@ -50,19 +50,33 @@ management — built from real remote operations experience.
 
 ---
 
-## Core Competencies## Hi there 👋
+## Core Competencies
 
-<!--
-**viki2k23/viki2k23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenant Communication · Rent Collection Follow-Up · Maintenance Coordination
+Vendor Management · Lease Operations · Utility Management
+SOP Development · Workflow Design · Process Documentation
+Client Coordination · Issue Resolution · Remote Operations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+- Expanding the property management SOPs library — 5 more documents in progress
+- Growing remote operations freelance practice on Upwork
+- Building financial independence through disciplined investing and income growth
+
+---
+
+## Work With Me
+
+I am available for remote operations support, property management
+assistance, and process documentation projects.
+
+- Upwork: https://www.upwork.com/freelancers/~01dc836b15fdffdea0e
+- LinkedIn: https://www.linkedin.com/in/vigneshwaran-g-831368385
+- Email: viki2k23@gmail.com
+
+---
+
+*Open to remote operations roles, property management support contracts,
+and freelance engagements. Based in India — working U.S. hours.*
