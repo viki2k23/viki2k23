@@ -38,17 +38,28 @@ A growing open library of standard operating procedures, communication
 templates, and operational checklists for U.S. residential property
 management — built from real remote operations experience.
 
-**Published documents:**
+**Published documents — 18 files across 4 folders:**
 
 | Document | Category |
 |---|---|
 | [Maintenance Request Handling SOP](https://github.com/viki2k23/property-management-sops/blob/main/maintenance/maintenance-request-handling-sop.md) | Maintenance |
 | [Vendor Dispatch and Follow-Up SOP](https://github.com/viki2k23/property-management-sops/blob/main/maintenance/vendor-dispatch-and-followup-sop.md) | Maintenance |
+| [Pest Control Coordination SOP](https://github.com/viki2k23/property-management-sops/blob/main/maintenance/pest-control-coordination-sop.md) | Maintenance |
+| [Tenant Maintenance Request SOP](https://github.com/viki2k23/property-management-sops/blob/main/maintenance/tenant-maintenance-request-sop.md) | Maintenance |
 | [Move-In / Move-Out Inspection Checklist](https://github.com/viki2k23/property-management-sops/blob/main/leasing/move-in-move-out-inspection-checklist.md) | Leasing |
 | [Lease Renewal Notice Templates](https://github.com/viki2k23/property-management-sops/blob/main/leasing/lease-renewal-notice-templates.md) | Leasing |
+| [Tenant Screening Process SOP](https://github.com/viki2k23/property-management-sops/blob/main/leasing/tenant-screening-process-sop.md) | Leasing |
+| [Owner Communication and Reporting SOP](https://github.com/viki2k23/property-management-sops/blob/main/leasing/owner-communication-and-reporting-sop.md) | Leasing |
+| [Applicant Screening Checklist](https://github.com/viki2k23/property-management-sops/blob/main/leasing/applicant-screening-checklist.md) | Leasing |
 | [Rent Follow-Up Communication Templates](https://github.com/viki2k23/property-management-sops/blob/main/tenant-communication/rent-follow-up-communication-templates.md) | Tenant Communication |
-
----
+| [Maintenance Acknowledgment Templates](https://github.com/viki2k23/property-management-sops/blob/main/tenant-communication/maintenance-acknowledgment-templates.md) | Tenant Communication |
+| [Move-Out Notice and Deposit Return Templates](https://github.com/viki2k23/property-management-sops/blob/main/tenant-communication/move-out-notice-and-deposit-return-templates.md) | Tenant Communication |
+| [Rent Reminder Template](https://github.com/viki2k23/property-management-sops/blob/main/tenant-communication/rent-reminder-template.md) | Tenant Communication |
+| [Remote Team Daily Operations SOP](https://github.com/viki2k23/property-management-sops/blob/main/remote-team-coordination/remote-team-daily-operations-sop.md) | Remote Team |
+| [Task Delegation and Follow-Up Framework](https://github.com/viki2k23/property-management-sops/blob/main/remote-team-coordination/task-delegation-and-followup-framework.md) | Remote Team |
+| [Cross-Timezone Communication Protocol](https://github.com/viki2k23/property-management-sops/blob/main/remote-team-coordination/cross-timezone-communication-protocol.md) | Remote Team |
+| [Weekly Reporting and Accountability System](https://github.com/viki2k23/property-management-sops/blob/main/remote-team-coordination/weekly-reporting-and-accountability-system.md) | Remote Team |
+| [Remote Onboarding Checklist](https://github.com/viki2k23/property-management-sops/blob/main/remote-team-coordination/remote-onboarding-checklist.md) | Remote Team |
 
 ## Core Competencies
 
@@ -61,7 +72,7 @@ Client Coordination · Issue Resolution · Remote Operations
 
 ## Currently Building
 
-- Expanding the property management SOPs library — 5 more documents in progress
+- Published 18-document property management SOPs library across 4 folders
 - Growing remote operations freelance practice on Upwork
 - Building financial independence through disciplined investing and income growth
 
